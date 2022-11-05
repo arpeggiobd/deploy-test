@@ -11,11 +11,6 @@
             "outputs": [
                 "dist/**"
             ]
-        },
-        "start": {
-            "dependsOn": [
-                "build"
-            ]
         }
     }
 }
